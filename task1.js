@@ -14,6 +14,7 @@
 // Значення змінної pricePerItem - це число 2000
 
     -----------------------------------------------------
+        
 
 const productName = "Droid";
 console.log(productName);
