@@ -63,16 +63,6 @@ console.log(randomFruit); // Поверне рандомний фрукт з м�
 
 
 
-
-
-
-
-
-
-
-
-
-
 :white_check_mark: JS оператори- Expressions and operators - JavaScript | MDN
 :white_check_mark: Умови в javascript - Making decisions in your code — conditionals - Learn web development | MDN
 :white_check_mark: Switch - switch - JavaScript | MDN
@@ -81,4 +71,3 @@ console.log(randomFruit); // Поверне рандомний фрукт з м�
  :white_check_mark: Цикл for for - JavaScript | MDN та цикл for of  for...of - JavaScript | MDN
 :+1:
 15
-
